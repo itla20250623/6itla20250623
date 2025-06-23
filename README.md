@@ -61,4 +61,4 @@ Telegram频道传送门：精选热门 Telegram 频道入口，涵盖资讯、�
 
 社会影响：
 《黑料大事记》详尽梳理娱乐圈与网红界重大爆料事件，呈现从爆发到发酵的全过程，时间线清晰、内容真实，是回顾舆论风暴与了解行业内幕的重要参考工具。
-[Canonical link](）
+[Canonical link](https://github.com/itla20250623/6itla20250623）
